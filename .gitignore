@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+~$*
+.claude/
+students.json
+reports/IR_Report_BookCrossing.docx

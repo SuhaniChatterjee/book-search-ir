@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+scipy
+matplotlib
+sentence-transformers
+streamlit
+python-docx
+pytest

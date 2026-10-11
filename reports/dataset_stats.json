@@ -1,0 +1,16 @@
+{
+  "raw_books": 271379,
+  "raw_ratings": 1149780,
+  "raw_users": 278858,
+  "catalog_books": 271061,
+  "works": 235599,
+  "works_multi_edition": 24723,
+  "authors": 96668,
+  "publishers": 16790,
+  "implicit_ratings": 716109,
+  "explicit_ratings": 433671,
+  "books_with_explicit_rating": 149721,
+  "year_unknown": 4640,
+  "mean_title_words": 6.12,
+  "mean_doc_terms": 8.33
+}
